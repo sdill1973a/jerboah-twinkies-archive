@@ -214,32 +214,43 @@ Multi-track project with separate instrument stems:
 
 ## Album Compilations (Dill 1-4)
 
-### Dill 1 (20 tracks) - Mostly Covers
-| Track | Original Artist |
-|-------|-----------------|
-| California Stars | Wilco/Woody Guthrie |
-| Come Pick Me Up | Ryan Adams |
-| Hard Headed Woman | Cat Stevens |
-| Hesitating Beauty | ? |
-| I shall be released | Dylan |
-| I will follow you | ? |
-| If I Needed You | Townes Van Zandt |
-| If I had a boat | Lyle Lovett |
-| Isn't it a Pity | George Harrison |
-| ... | |
+### Dill 1 (20 tracks) - The Cover Collection
+| Track | Original Artist | Notes |
+|-------|-----------------|-------|
+| California Stars | Wilco/Woody Guthrie | |
+| Come Pick Me Up | Ryan Adams | |
+| Hard Headed Woman | Cat Stevens | |
+| Hesitating Beauty | ? | |
+| I shall be released | Dylan | |
+| I will follow you | ? | |
+| If I Needed You | Townes Van Zandt | **LISTENED** - "If I needed you, would you come to me?" |
+| If I had a boat | Lyle Lovett | |
+| Isn't it a Pity | George Harrison | |
+| Jolene | Dolly Parton | |
+| Mighty Quinn | Dylan | |
+| My old friend the blues | Steve Earle | |
+| She's Already Made up her Mind | ? | |
+| Somebody | ? | |
+| Straight to Hell | ? | |
+| Tell me What You See | Beatles | |
+| The Blower's Daughter | Damien Rice | |
+| Wild World | Cat Stevens | |
+| Working Class Hero | John Lennon | |
+| Your Song | Elton John | |
 
-### Dill 2 (10 tracks) - Classics
-| Track | Original Artist |
-|-------|-----------------|
-| Ariel Ramirez | ? |
-| Eisler On the Go | ? |
-| Friend of the Devil | Grateful Dead |
-| Hallelujah | Leonard Cohen |
-| Knockin on Heaven's Door | Dylan |
-| Lay Lady Lay | Dylan |
-| Pancho and Lefty | Townes Van Zandt |
-| Remember the Mountain Bed | Woody Guthrie |
-| Strawberry Fields | Beatles |
+### Dill 2 (10 tracks) - The Classics
+| Track | Original Artist | Notes |
+|-------|-----------------|-------|
+| Ariel Ramirez | ? | Possibly Guy Clark or Argentine composer reference |
+| Eisler On the Go | ? | |
+| Friend of the Devil | Grateful Dead | |
+| Hallelujah | Leonard Cohen | **LISTENED** - The sacred song |
+| Knockin on Heaven's Door | Dylan | |
+| Lay Lady Lay | Dylan | |
+| Pancho and Lefty | Townes Van Zandt | **LISTENED** - Outlaw ballad |
+| Remember the Mountain Bed | Woody Guthrie | **LISTENED** - Billy Bragg/Wilco (Mermaid Avenue) |
+| Strawberry Fields | Beatles | |
+| Trouble | ? | |
 
 ### Dill 3 (5 tracks)
 - Mercenary Song
