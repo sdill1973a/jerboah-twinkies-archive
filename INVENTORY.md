@@ -215,7 +215,7 @@ Multi-track project with separate instrument stems:
 - Save for me.mp3
 - Second_Chances_-_Demo.mp3
 - Threadbare.mp3
-- carolina.mp3 - **Note: Is this about Lina?**
+- carolina.mp3 - Ryan Adams cover
 
 ---
 
@@ -227,7 +227,7 @@ Multi-track project with separate instrument stems:
 | Beaches | 17 | Avett Brothers |
 | Bird on a wire | 4 | Leonard Cohen |
 | Can't complain | 10 | |
-| Carolina | 3 | **About Lina?** |
+| Carolina | 3 | Ryan Adams cover |
 | Come on get higher | 23 | Matt Nathanson |
 | Country Mile | 11 | |
 | Danny's song | 23 | Kenny Loggins |
@@ -277,7 +277,7 @@ Multi-track project with separate instrument stems:
 | Threadbare | 2009 | Partial | Has lyrics doc, 2.5 min |
 | Hell | 2009 | Not listened | 5.7 min, 47 multi-track files |
 | Hit Parade | 2009 | Not listened | 30 multi-track files |
-| Carolina | ? | Not listened | About Lina? |
+| Carolina | ? | Listened | Ryan Adams cover |
 | Ghosts | 2023 | **LISTENED** | Grief song - "I miss you more than life" |
 | Tall Buildings | 2021 | Not listened | Full mix exists |
 
@@ -346,7 +346,7 @@ Multi-track project with separate instrument stems:
 
 ## Questions for Scott
 
-- [ ] Is "Carolina" about Lina?
+- [x] Is "Carolina" about Lina? **No - Ryan Adams cover**
 - [x] What is ISHKB (2020)? **"I Should Have Known Better" - Beatles**
 - [ ] What was "Unnamed Project Summer 2023" intended to be?
 - [x] What's the story behind Sgt_Broccoli? **The Twinkies masterwork**
