@@ -157,16 +157,18 @@ Multi-track project with separate instrument stems:
 - `wonder eye v2.2.wav` - December 30, 2023
 
 **2023 Demos** (discovered in separate folder):
+- `Dog Song v1.3-002.mp3` - **LISTENED** - Original? - From a dog's perspective. "I lay down dead every time you leave... I'm running like your love is going to save my life." Unconditional love.
+- `Lua2.3.mp3` - **LISTENED** - Bright Eyes cover - "What is simple in the moonlight by morning never is"
 - `Million Dollar Bill 3.3-001.mp3` - **LISTENED** - Cover (Dawes?) - 3.3 min - Dark humor and ache woven together.
 
 **2024 (Continued Processing)**:
 - `mind.mp3` - January 28, 2024
 - `Codienev2.mp3` - January 29, 2024
 - `cant-003.wav` - February 7, 2024
-- `goodbye.wav` - February 12, 2024
-- `Ruined 1.3.mp3` - March 15, 2024
-- `Wyoming.mp3` - March 15, 2024
-- `Belong.mp3` - March 22, 2024
+- `goodbye.wav` - **LISTENED** - February 12, 2024 - Leonard Cohen cover - "Hey That's No Way to Say Goodbye" - "Your eyes are soft with sorrow"
+- `Ruined 1.3.mp3` - **LISTENED** - March 15, 2024 - "You come around I'm ruined"
+- `Wyoming.mp3` - **LISTENED** - March 15, 2024 - "When my soul is finally set free, you can burn my body in the prairies... remember me for my blue eyes and the songs I'd say"
+- `Belong.mp3` - **LISTENED** - March 22, 2024 - Cover of "You Belong to Me" (classic standard)
 
 **Documents in 2023 folder**:
 - `Bird by bird.docx` - Feb 10, 2024 (Anne Lamott reference)
@@ -280,8 +282,8 @@ Multi-track project with separate instrument stems:
 | Midwestern Blues | 2001 | **LISTENED** | Leaving Missouri |
 | I spoke as a child | 2009 | **LISTENED** | 1 Cor 13:11, deeply personal |
 | Threadbare | 2009 | Partial | Has lyrics doc, 2.5 min |
-| Hell | 2009 | Not listened | 5.7 min, 47 multi-track files |
-| Hit Parade | 2009 | Not listened | 30 multi-track files |
+| Hell | 2009 | **LISTENED** | 5.7 min, 47 multi-track files - "I'm going straight to hell just like my mama said" - rebellious, sneaking out, female chorus |
+| Hit Parade | 2009 | **LISTENED** | 30 multi-track files - "I wanna walk down the hit parade" - raw rock energy |
 | Carolina | ? | Listened | Ryan Adams cover |
 | Ghosts | 2023 | **LISTENED** | Grief song - "I miss you more than life" |
 | Million Dollar Bill | 2023 | **LISTENED** | Cover - dark humor + ache |
