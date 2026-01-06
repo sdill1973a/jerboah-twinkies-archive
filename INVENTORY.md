@@ -140,6 +140,8 @@ Multi-track project with separate instrument stems:
 ### 2023: The Grief Year
 *Lina died August 29, 2023*
 
+**Context**: Started recording seriously that summer. Good setup, probably the cleanest recordings to date. Was taking it seriously, continued trying into the fall.
+
 **Before (Summer 2023)**:
 - `moftb take1.mp3` - May 19, 2023
 - `Father and Son - rough.mp3` - **July 4, 2023** - Cat Stevens cover. 3.6 min. Father to child. 55 days before.
@@ -348,7 +350,7 @@ Multi-track project with separate instrument stems:
 
 - [x] Is "Carolina" about Lina? **No - Ryan Adams cover**
 - [x] What is ISHKB (2020)? **"I Should Have Known Better" - Beatles**
-- [ ] What was "Unnamed Project Summer 2023" intended to be?
+- [x] What was "Unnamed Project Summer 2023" intended to be? **A fresh start - taking recording seriously again, good setup, cleanest recordings to date. Then August 29 happened.**
 - [x] What's the story behind Sgt_Broccoli? **The Twinkies masterwork**
 - [x] Who were Dave and Brent on the Jerboah tapes? **David Murray (Murray Funeral Home, Bolivar) and Brent Kincaid - show up in many stories**
 - [x] What happened in 2009 that sparked such heavy recording? **Set up a semi-permanent studio, finally had space and time to really dig in**
