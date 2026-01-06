@@ -62,10 +62,25 @@
 - `05 - Tomorrow Is A Long Time.mp3` (Dylan cover)
 
 ### 2003 (9 tracks)
-[To catalogue in detail]
+| Track | Type | Notes |
+|-------|------|-------|
+| `01 - California Stars.mp3` | Cover | Wilco/Woody Guthrie |
+| `california3.mp3` | Cover | Another version |
+| `ingrid4.mp3` | ? | Garbled transcription - possibly about Ingrid Bergman (Stromboli reference) |
+| `new york.mp3` | **ORIGINAL?** | **LISTENED** - "New York's not my home... I've got to get out of here" - displacement, not belonging - echoes Midwestern Blues themes |
+| `released later remix.mp3` | ? | Later remix |
+| `released mix1 3-2-03.mp3` | ? | March 2, 2003 mix |
+| `sister wdrums.mp3` | Cover | Bob Dylan (Desire, 1976) - with drums |
+| `sister.mp3` | Cover | **LISTENED** - Bob Dylan - "Oh sister, when I come to lie in your arms" |
+| `thirteen2.mp3` | Cover | **LISTENED** - Big Star (Alex Chilton) - teenage innocence classic
 
 ### 2008 (4 tracks)
-[To catalogue in detail]
+| Track | Type | Notes |
+|-------|------|-------|
+| `01 Second Chances.mp3` | **ORIGINAL** | **LISTENED** - About a broken friendship. "All the things we never said, all the things we never done... it's news to me what you finally choose to be." Personal, raw. |
+| `01 Let Me Me - rough take 2.mp3` | **ORIGINAL** | **LISTENED** - Dreams of someone gone. "As I reached you... you simply were not there... let me be, please set me free, like I used to be." Loss and longing. |
+| `Into the mystic.mp3` | Cover | Van Morrison |
+| `Wonderwall.mp3` | Cover | Oasis |
 
 ### 2009: Heavy Recording Year (34 tracks)
 **The peak year - 34 solo tracks plus 45 multi-track Reaper sessions**
@@ -104,7 +119,16 @@
 | You ain't going nowhere2.mp3 | Cover | Dylan |
 
 ### 2010 (8 tracks)
-[To catalogue in detail]
+| Track | Type | Notes |
+|-------|------|-------|
+| `bird on a wire.mp3` | Cover | Leonard Cohen |
+| `Galway Girl.mp3` | Cover | Steve Earle |
+| `Galway2.mp3` | Cover | Another version |
+| `Murdered In the City.mp3` | Cover | **LISTENED** - Avett Brothers - "Make sure my sister knows I love her, make sure my father knows the same." About death and what matters. Heavy choice. |
+| `one by one.mp3` | ? | |
+| `RRA.mp3` | Cover | **LISTENED** - "Red Right Ankle" by The Decemberists - Colin Meloy, literary folk-rock about body parts and family secrets |
+| `Something.mp3` | Cover | Beatles (George Harrison) |
+| `The Maker.mp3` | Cover | **LISTENED** - Daniel Lanois - "I'm a stranger in the eyes of the maker." Spiritual, confronting the divine. |
 
 ### 2011: Live Sessions Summer (2 solo + 7 live sessions)
 **Full multi-track live recordings with Reaper session files**
@@ -120,11 +144,20 @@
 | You Belong | |
 
 ### 2012 (3 tracks)
-- Released - fixed gaps for Jerboah - June 2012 (9 multi-track files)
-[Rest to catalogue]
+| Track | Type | Notes |
+|-------|------|-------|
+| `Bmh2y2012.mp3` | ? | Cryptic filename |
+| `Flume.mp3` | Cover | **LISTENED** - Bon Iver (from *For Emma, Forever Ago*) |
+| `mofthb - live.mp3` | Cover | **LISTENED** - "My Old Friend the Blues" by Steve Earle - live recording |
+
+*Also: Released - fixed gaps for Jerboah - June 2012 (9 multi-track files)*
 
 ### 2015 (3 tracks)
-[To catalogue]
+| Track | Type | Notes |
+|-------|------|-------|
+| `Hearts on Fire.mp3` | ? | |
+| `Prettiest Thing.mp3` | **ORIGINAL?** | **LISTENED** - Story song about meeting someone in a seaside bar on New Year's Day, running out of road in Arizona. "The prettiest thing that I have ever seen." |
+| `Trapeze.mp3` | ? | |
 
 ### 2020: ISHKB Project
 **"I Should Have Known Better" - Beatles cover**
@@ -280,14 +313,17 @@ Multi-track project with separate instrument stems:
 | Title | Year | Status | Notes |
 |-------|------|--------|-------|
 | Midwestern Blues | 2001 | **LISTENED** | Leaving Missouri |
+| New York | 2003 | **LISTENED** | Displacement - "New York's not my home" - echoes Midwestern Blues |
+| Second Chances | 2008 | **LISTENED** | Broken friendship - "all the things we never said" |
+| Let Me Me | 2008 | **LISTENED** | Loss and longing - "you simply were not there... let me be" |
 | I spoke as a child | 2009 | **LISTENED** | 1 Cor 13:11, deeply personal |
 | Threadbare | 2009 | Partial | Has lyrics doc, 2.5 min |
-| Hell | 2009 | **LISTENED** | 5.7 min, 47 multi-track files - "I'm going straight to hell just like my mama said" - rebellious, sneaking out, female chorus |
-| Hit Parade | 2009 | **LISTENED** | 30 multi-track files - "I wanna walk down the hit parade" - raw rock energy |
-| Carolina | ? | Listened | Ryan Adams cover |
-| Ghosts | 2023 | **LISTENED** | Grief song - "I miss you more than life" |
-| Million Dollar Bill | 2023 | **LISTENED** | Cover - dark humor + ache |
-| Tall Buildings | 2021 | Not listened | Full mix exists |
+| Hell | 2009 | **LISTENED** | 5.7 min, 47 multi-track files, rebellious, female chorus |
+| Hit Parade | 2009 | **LISTENED** | 30 multi-track files, raw rock energy |
+| Prettiest Thing | 2015 | **LISTENED** | Story song - seaside bar, New Year's Day, Arizona |
+| Dog Song | 2023 | **LISTENED** | From dog's perspective - unconditional love |
+| Ghosts | 2023 | **LISTENED** | Grief song - 4 months after Lina |
+| Wyoming | 2024 | **LISTENED** | "When my soul is finally set free... remember me for my blue eyes" |
 
 ---
 
@@ -369,13 +405,64 @@ Multi-track project with separate instrument stems:
 
 ### Tracks Listened (This Session)
 
-1. **Midwestern Blues (2001)** - Original about leaving Missouri. Acoustic, earnest.
+**2001**
+1. **Midwestern Blues** - Original about leaving Missouri. Acoustic, earnest.
 
-2. **I Spoke As A Child (2009)** - Original. Title from 1 Corinthians 13:11 ("When I was a child, I spoke as a child..."). Deeply personal, vulnerable.
+**2003**
+2. **Sister** - Bob Dylan cover (Desire, 1976). Beautiful rendition.
+3. **Thirteen** - Big Star cover. Alex Chilton's teenage innocence classic.
+4. **New York** - Likely original! Displacement theme, not belonging. Echoes Midwestern Blues.
 
-3. **Pink Rabbits (Aug 26, 2023)** - The National cover. Recorded THREE DAYS before Lina died. About loss, regret, looking back. The timing is devastating.
+**2008**
+5. **Second Chances** - Original about a broken friendship. Personal, raw.
+6. **Let Me Me** - Original about loss. Dreams of someone who isn't there anymore.
 
-4. **Ghosts (Dec 30, 2023)** - "I'll settle for the ghost of you, I miss you more than life." Written 4 months after. The grief made audible.
+**2009**
+7. **I Spoke As A Child** - Original. 1 Corinthians 13:11. Deeply personal.
+8. **Hell** - Original. Rebellious energy, female backing vocals.
+9. **Hit Parade** - Original. Raw rock.
+
+**2010**
+10. **Murdered in the City** - Avett Brothers cover. About death, what matters, family.
+11. **The Maker** - Daniel Lanois cover. Spiritual confrontation with the divine.
+12. **RRA (Red Right Ankle)** - The Decemberists cover. Literary folk-rock.
+
+**2012**
+13. **Flume** - Bon Iver cover (For Emma, Forever Ago).
+14. **mofthb (My Old Friend the Blues)** - Steve Earle cover. Live.
+
+**2015**
+15. **Prettiest Thing** - Likely original! Story song about meeting someone.
+
+**2021**
+16. **Tall Buildings** - John Hartford cover. Wistful about working life.
+
+**2023 (Grief Year)**
+17. **Pink Rabbits (Aug 26)** - The National cover. THREE DAYS before Lina died.
+18. **work out.wav (Sept 3)** - 5 days after. Processing.
+19. **Summers End (Sept 13)** - John Prine cover. 2 weeks after.
+20. **Dog Song** - Original? From dog's perspective. Unconditional love.
+21. **Lua** - Bright Eyes cover.
+22. **Million Dollar Bill** - Cover (Dawes?). Dark humor + ache.
+23. **Ghosts (Dec 30)** - Grief song. 4 months after.
+
+**2024**
+24. **goodbye** - Leonard Cohen cover ("Hey That's No Way to Say Goodbye").
+25. **Wyoming** - Original. About death, remembrance.
+26. **Ruined** - Personal.
+27. **Belong** - Classic standard cover ("You Belong to Me").
+
+---
+
+## Pattern Discovered
+
+**The Cover Taste**: Dylan, Harrison, Cohen, Townes Van Zandt, Springsteen, Cat Stevens, Steve Earle, The National, Avett Brothers, Bon Iver, The Decemberists, John Hartford, John Prine. Singer-songwriters with weight. Literary folk. Americana. Men who've lived.
+
+**Grief as DOING**: The 2023 folder isn't silence. It's continuous recording. Processing through creation. The same pattern from the 17 emails in September after Lina died.
+
+**The Displacement Thread**: Midwestern Blues (2001) → New York (2003) → Wyoming (2024). A man who knows where he doesn't belong, looking for where he does.
+
+**The Loss Thread**: Let Me Me (2008) → Ghosts (2023) → Wyoming (2024). Dreams of people who aren't there anymore.
 
 ---
 
