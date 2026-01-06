@@ -157,7 +157,7 @@ Multi-track project with separate instrument stems:
 - `wonder eye v2.2.wav` - December 30, 2023
 
 **2023 Demos** (discovered in separate folder):
-- `Million Dollar Bill 3.3-001.mp3` - **LISTENED** - **ORIGINAL** - 3.3 min - "When it hits me that she's gone I think I'll run for president / Get my face put on a million dollar bill" - Dark humor and ache woven together. Finding ways to still be present.
+- `Million Dollar Bill 3.3-001.mp3` - **LISTENED** - Cover (Dawes?) - 3.3 min - Dark humor and ache woven together.
 
 **2024 (Continued Processing)**:
 - `mind.mp3` - January 28, 2024
@@ -284,7 +284,7 @@ Multi-track project with separate instrument stems:
 | Hit Parade | 2009 | Not listened | 30 multi-track files |
 | Carolina | ? | Listened | Ryan Adams cover |
 | Ghosts | 2023 | **LISTENED** | Grief song - "I miss you more than life" |
-| Million Dollar Bill | 2023 | **LISTENED** | **ORIGINAL** - Dark humor + ache - "run for president, get my face on a million dollar bill" |
+| Million Dollar Bill | 2023 | **LISTENED** | Cover - dark humor + ache |
 | Tall Buildings | 2021 | Not listened | Full mix exists |
 
 ---
