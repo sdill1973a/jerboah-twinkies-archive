@@ -26,6 +26,7 @@
 - High school (Humansville, MO, late 1980s)
 - **The Latex Twinkies** - absurdist art collective (1989)
 - Pre-Photoshop meme culture - heads pasted onto prom bodies, Beatles photos, Rick Moranis
+- **Sgt_Broccoli** - The Twinkies masterwork
 - Document: `The Latex Twinkies A Generation Revisited.pdf`
 - High school friends: Shawn Owen, Alan Payne, Derek Erven, Dave, Jack Ono
 
@@ -48,7 +49,11 @@
 | Jerboah Sessions 10 - House - Summer 1992 | Confirms era |
 | Jerboah Sessions 10b - House backups continued | |
 
-**Context**: College era at Bolivar, MO. Friends included David Murray, Melissa Bench (was engaged), Susan (Texas trip where bought Kevn Kinney cassette that changed his life).
+**Context**: College era at Bolivar, MO. Friends included David Murray (family ran Murray Funeral Home, Paul McCartney shirt guy), Brent Kincaid (shows up in many stories), Melissa Bench (was engaged), Susan (Texas trip where bought Kevn Kinney cassette that changed his life).
+
+**Kentucky Sessions**: From Dave Murray's grad school days - Scott went to visit and they recorded.
+
+**Sasquatch**: Was an album. "Sasquatch Finals" = finalizing that album.
 
 ### 2001: Early Solo (4 tracks)
 - `01 - Midwestern Blues.mp3` - **LISTENED** - Original about leaving Missouri
@@ -64,6 +69,8 @@
 
 ### 2009: Heavy Recording Year (34 tracks)
 **The peak year - 34 solo tracks plus 45 multi-track Reaper sessions**
+
+*Context: Set up a semi-permanent studio and really dug in. Finally had the space and time to work.*
 
 | Track | Type | Notes |
 |-------|------|-------|
@@ -342,11 +349,11 @@ Multi-track project with separate instrument stems:
 - [ ] Is "Carolina" about Lina?
 - [x] What is ISHKB (2020)? **"I Should Have Known Better" - Beatles**
 - [ ] What was "Unnamed Project Summer 2023" intended to be?
-- [ ] What's the story behind Sgt_Broccoli?
-- [ ] Who were Dave and Brent on the Jerboah tapes?
-- [ ] What happened in 2009 that sparked such heavy recording?
-- [ ] What's the Kentucky Sessions story (Jerboah Finals 6)?
-- [ ] What's the Sasquatch Finals reference?
+- [x] What's the story behind Sgt_Broccoli? **The Twinkies masterwork**
+- [x] Who were Dave and Brent on the Jerboah tapes? **David Murray (Murray Funeral Home, Bolivar) and Brent Kincaid - show up in many stories**
+- [x] What happened in 2009 that sparked such heavy recording? **Set up a semi-permanent studio, finally had space and time to really dig in**
+- [x] What's the Kentucky Sessions story? **From Dave Murray's grad school days - Scott visited and they recorded**
+- [x] What's the Sasquatch Finals reference? **Sasquatch was an album - "Finals" = finalizing it**
 
 ---
 
