@@ -151,8 +151,8 @@ Multi-track project with separate instrument stems:
 - `pink rabbits 8-26-23.mp3` - **LISTENED** - The National cover. 4.3 min. Song about loss, regret, looking back.
 
 **After**:
-- `work out.wav` - September 3, 2023 (5 days after)
-- `Summers End1.3.wav` - September 13, 2023 (2 weeks after) - 3.9 min - John Prine?
+- `work out.wav` - **LISTENED** - September 3, 2023 (5 days after) - 2.4 min - "When she needed me, I wasn't around... It'll all work out eventually"
+- `Summers End1.3.wav` - **LISTENED** - September 13, 2023 (2 weeks after) - 3.9 min - John Prine cover - "Just come on home, no you don't have to be alone, just come on home"
 - `Ghosts.mp3` - **LISTENED** - December 30, 2023 - "I'll settle for the ghost of you, I miss you more than life"
 - `wonder eye v2.2.wav` - December 30, 2023
 
