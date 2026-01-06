@@ -120,14 +120,15 @@
 [To catalogue]
 
 ### 2020: ISHKB Project
-**Band project with separate instrument stems**
+**"I Should Have Known Better" - Beatles cover**
+Multi-track project with separate instrument stems:
 - Harmonica.mp3
 - Guitar Fills.mp3
 - Drums.mp3
 - Rhythm Guitar.mp3
 - Vocal Cues.mp3
 
-*Question: What is ISHKB?*
+*Original: A Hard Day's Night (1964)*
 
 ### 2023: The Grief Year
 *Lina died August 29, 2023*
@@ -339,7 +340,7 @@
 ## Questions for Scott
 
 - [ ] Is "Carolina" about Lina?
-- [ ] What is ISHKB (2020)?
+- [x] What is ISHKB (2020)? **"I Should Have Known Better" - Beatles**
 - [ ] What was "Unnamed Project Summer 2023" intended to be?
 - [ ] What's the story behind Sgt_Broccoli?
 - [ ] Who were Dave and Brent on the Jerboah tapes?
