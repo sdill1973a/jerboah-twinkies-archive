@@ -67,7 +67,7 @@
 | `01 - California Stars.mp3` | Cover | Wilco/Woody Guthrie |
 | `california3.mp3` | Cover | Another version |
 | `ingrid4.mp3` | ? | Garbled transcription - possibly about Ingrid Bergman (Stromboli reference) |
-| `new york.mp3` | **ORIGINAL?** | **LISTENED** - "New York's not my home... I've got to get out of here" - displacement, not belonging - echoes Midwestern Blues themes |
+| `new york.mp3` | Cover | **LISTENED** - "New York's not my home... I've got to get out of here" |
 | `released later remix.mp3` | ? | Later remix |
 | `released mix1 3-2-03.mp3` | ? | March 2, 2003 mix |
 | `sister wdrums.mp3` | Cover | Bob Dylan (Desire, 1976) - with drums |
@@ -156,7 +156,7 @@
 | Track | Type | Notes |
 |-------|------|-------|
 | `Hearts on Fire.mp3` | ? | |
-| `Prettiest Thing.mp3` | **ORIGINAL?** | **LISTENED** - Story song about meeting someone in a seaside bar on New Year's Day, running out of road in Arizona. "The prettiest thing that I have ever seen." |
+| `Prettiest Thing.mp3` | Cover | **LISTENED** - Story song about meeting someone in a seaside bar |
 | `Trapeze.mp3` | ? | |
 
 ### 2020: ISHKB Project
@@ -324,14 +324,12 @@ Multi-track project with separate instrument stems:
 | Title | Year | Status | Notes |
 |-------|------|--------|-------|
 | Midwestern Blues | 2001 | **LISTENED** | Leaving Missouri |
-| New York | 2003 | **LISTENED** | Displacement - "New York's not my home" - echoes Midwestern Blues |
 | Second Chances | 2008 | **LISTENED** | Broken friendship - "all the things we never said" |
 | Let Me Me | 2008 | **LISTENED** | Loss and longing - "you simply were not there... let me be" |
 | I spoke as a child | 2009 | **LISTENED** | 1 Cor 13:11, deeply personal |
 | Threadbare | 2009 | Partial | Has lyrics doc, 2.5 min |
 | Hell | 2009 | **LISTENED** | 5.7 min, 47 multi-track files, rebellious, female chorus |
 | Hit Parade | 2009 | **LISTENED** | 30 multi-track files, raw rock energy |
-| Prettiest Thing | 2015 | **LISTENED** | Story song - seaside bar, New Year's Day, Arizona |
 | Dog Song | 2023 | **LISTENED** | From dog's perspective - unconditional love |
 | Ghosts | 2023 | **LISTENED** | Grief song - 4 months after Lina |
 | Wyoming | 2024 | **LISTENED** | "When my soul is finally set free... remember me for my blue eyes" |
